@@ -36,9 +36,9 @@ The project consists of 26 individual packages, one for each letter of the Engli
 ## Folder Structure
 
 In this GitHub repository, each package is located in its own directory named after the letter:
-* `/a`
-* `/b`
-* `/c`
+* `/packages/a`
+* `/packages/b`
+* `/packages/c`
 * ...and so on.
 
 ## License
