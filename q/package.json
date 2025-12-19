@@ -1,0 +1,21 @@
+{
+  "name": "@lowercase-letters/q",
+  "version": "3.0.0",
+  "description": "A package that exports the lowercase letter q",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "get-intrinsic": "^1.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-constant/lowercase-letter-strings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/js-constant/lowercase-letter-strings/issues"
+  },
+  "homepage": "https://github.com/js-constant/lowercase-letter-strings#readme"
+}

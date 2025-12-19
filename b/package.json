@@ -1,0 +1,21 @@
+{
+  "name": "@lowercase-letters/b",
+  "version": "3.0.0",
+  "description": "A package that exports the lowercase letter b",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "letter-b": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-constant/lowercase-letter-strings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/js-constant/lowercase-letter-strings/issues"
+  },
+  "homepage": "https://github.com/js-constant/lowercase-letter-strings#readme"
+}
